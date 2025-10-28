@@ -1,2 +1,5 @@
 # 문서파일 전체 제외
 docs/
+
+# deepseek OCR 제외
+DeepSeek-OCR/
